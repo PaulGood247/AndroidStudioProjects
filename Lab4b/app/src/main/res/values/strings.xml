@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab4b</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="countries_array">
+        <item>Ireland</item>
+        <item>England</item>
+        <item>China</item>
+        <item>America</item>
+    </string-array>
+
+</resources>
